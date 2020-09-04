@@ -1,2 +1,1 @@
-# linebot_test
-preparation for MakeNTU
+# LineBot and esp8266 example code
